@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "admin-lte": "^2.4.8",
-    "axios": "^0.18.0",
+    "axios": "^0.30.0",
     "chart.js": "^2.7.2",
     "cross-env": "^5.2.0",
     "font-awesome": "^4.7.0",
-    "laravel-mix": "^2.1.11",
-    "lodash": "^4.17.10",
+    "laravel-mix": "^6.0.49",
+    "lodash": "^4.17.21",
     "rpg-awesome": "^0.1.1",
-    "select2": "^4.0.5"
+    "select2": "^4.0.13"
   }
 }
